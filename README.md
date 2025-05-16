@@ -7,7 +7,7 @@ A hands-on Jupyter Notebook demo of linear regression using Python, NumPy, Matpl
 - `linearRegression.ipynb`: Predicting salary from experience using a linear regression model.
 - `myFirstNotebook.ipynb`: Earlier practice notebook.
 - `index.html`: Frontend intro (if applicable).
-- `requirements.txt`: Libraries needed.
+- `requirements.txt`: Libraries needed
   
 ## 🧠 Topics Covered
 
