@@ -45,3 +45,6 @@ A hands-on Jupyter Notebook demo of linear regression using Python, NumPy, Matpl
 - matplotlib
 - scikit-learn
 - jupyter
+
+
+![erm](https://github.com/foster95/journey/blob/main/assets/images/initial-colour-palette.png)
